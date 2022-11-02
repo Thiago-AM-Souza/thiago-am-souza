@@ -1,9 +1,6 @@
 ## Olá! Me chamo Thiago, prazer em ter você por aqui!
 
-- 🌱 Atualmente estou estudando .NET
-- 🔎 Procurando oportunidades como estagiário ou Dev Jr
-- 📚 Estou me graduando em Informática para Negócios na FATEC SBC
-##
+- 🖥️ Desenvolvedor Jr
 
 <div align="left">
   <a href="https://github.com/thiago-am-souza">
