@@ -1,6 +1,6 @@
 ## Olá! Me chamo Thiago, prazer em ter você por aqui!
 
-- 🖥️ Desenvolvedor .NET Jr
+- 🖥️ Desenvolvedor .NET
 - 📚 Estudando .Net e Vue.js
 
 <div align="left">
