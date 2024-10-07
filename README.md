@@ -1,4 +1,4 @@
-## Olá! Me chamo Thiago, prazer em ter você por aqui!
+## Olá! Prazer em ter você por aqui!
 
 - 🖥️ Desenvolvedor .NET
 - 📚 Estudando .Net e Vue.js
